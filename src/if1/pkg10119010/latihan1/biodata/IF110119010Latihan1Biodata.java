@@ -7,7 +7,12 @@ package if1.pkg10119010.latihan1.biodata;
 
 /**
  *
- * @author User
+ * @author
+ * NAMA     : Maulana Imam Malik
+ * KELAS    : IF1
+ * NIM      : 10119010
+ * Deskripsi Program : Program ini berisi program untuk menampilkan value ke 
+ *                     layar
  */
 public class IF110119010Latihan1Biodata {
 
